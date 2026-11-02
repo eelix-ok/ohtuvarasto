@@ -1,3 +1,3 @@
 [run]
 source = src
-# kommentti
+omit = src/index.py, src/tests/**
